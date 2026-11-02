@@ -14,10 +14,10 @@
 #define BLYNK_TEMPLATE_ID    "parkinsons glove"
 #define BLYNK_TEMPLATE_NAME "Parkinson Guardian"
 #define BLYNK_DEVICE_NAME   "Parkison Guardian"
-#define BLYNK_AUTH_TOKEN    "PJBRTt4aysQwUgogFL06vJCqcaw-SXdV"
+#define BLYNK_AUTH_TOKEN    "Your_Blynk_Auth_Token"
 
-const char* WIFI_SSID     = "AI-LAB";
-const char* WIFI_PASSWORD = "AI@lbrce76";
+const char* WIFI_SSID     = "Your_WIFI_SSID";
+const char* WIFI_PASSWORD = "Your_WIFI_Password";
 
 // ---------------------------------------------------------------------------
 // Pin mapping
